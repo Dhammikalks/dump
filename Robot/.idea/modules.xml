@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Actioner/.idea/Actioner.iml" filepath="$PROJECT_DIR$/../Actioner/.idea/Actioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Controller/.idea/Controller.iml" filepath="$PROJECT_DIR$/../Controller/.idea/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../GUI/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Robot.iml" filepath="$PROJECT_DIR$/.idea/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SLAM Lectures/Unit_PP/.idea/Unit_PP.iml" filepath="$PROJECT_DIR$/../SLAM Lectures/Unit_PP/.idea/Unit_PP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Veiwer/.idea/Veiwer.iml" filepath="$PROJECT_DIR$/../Veiwer/.idea/Veiwer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../control-server/.idea/control-server.iml" filepath="$PROJECT_DIR$/../control-server/.idea/control-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../controller/.idea/controller.iml" filepath="$PROJECT_DIR$/../controller/.idea/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../database_client/.idea/database_client.iml" filepath="$PROJECT_DIR$/../database_client/.idea/database_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SLAM Lectures/imply/.idea/imply.iml" filepath="$PROJECT_DIR$/../SLAM Lectures/imply/.idea/imply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../path_planner/.idea/path_planner.iml" filepath="$PROJECT_DIR$/../path_planner/.idea/path_planner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server/.idea/server.iml" filepath="$PROJECT_DIR$/../server/.idea/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sim_server/.idea/sim_server.iml" filepath="$PROJECT_DIR$/../sim_server/.idea/sim_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" filepath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" />
+    </modules>
+  </component>
+</project>
